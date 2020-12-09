@@ -19,7 +19,7 @@ Take 30 minutes to discuss the following questions with your table group.
 * Let's say you have built a Rails app that is a news platform. You have an Article and an Author model and you have controllers and routes for the CRUD actions of each model. You sit down at your computer and visit `http://youramazingsinatranews.example.com/articles` (not a real link!):
   - What kind of web request is this making? (i.e. is it a `GET`, `POST`, etc request?)
   - What controller action (i.e. which route in which controller) will recieve that web request?
-  - What is the response that your Sinatra app will send back to the client, i.e. the browser?
+  - What is the response that your Rails app will send back to the client, i.e. the browser?
 * You have the following form for a new article:
 
 ```html
